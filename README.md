@@ -134,5 +134,3 @@ This project implements a **lightweight Convolutional Neural Network (CNN)** cla
 This project is released for educational purposes under **ERA V4 - Session 5 Assignment** guidelines.
 
 ---
-
-Would you like me to also **make this a nicely styled PDF/Word report** (with tables, highlights, and diagrams) for sharing, or just keep it as a clean `README.md` format?
