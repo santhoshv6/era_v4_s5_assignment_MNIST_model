@@ -1,7 +1,3 @@
-Here’s a well-formatted **documentation-style version** of your README content, structured like a professional project document:
-
----
-
 # MNIST CNN Classifier - Session 5 Assignment
 
 ## 📌 Overview
